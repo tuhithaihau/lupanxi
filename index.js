@@ -46,3 +46,5 @@ function f() {
     setTimeout( f, 200000 ); 
     console.log('--tttttttttt--') 
 }
+
+f();
